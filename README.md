@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luxvao
 - 👀 I’m interested in containers, GUIs and other linux stuff.
 - 🌱 I’m currently learning GTK
-- 💞️ I’m looking to collaborate on C++ and C# releated projects. 
+- 💞️ I’m looking to collaborate on C++, Rust and C# releated projects. 
 - 📫 How to reach me luxvoo.me@gmail.com
 
 <!---
